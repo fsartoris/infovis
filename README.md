@@ -1,2 +1,2 @@
 # infovis
-Visualizacion de informacion
+Data visualization
