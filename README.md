@@ -1,7 +1,7 @@
 # infovis
 Data visualization using Tableau
 
-##### Ironman winners viz
+#### Ironman winners viz
 https://fsartoris.github.io/infovis/w42.html 
 
 
