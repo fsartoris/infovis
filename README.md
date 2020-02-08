@@ -3,7 +3,7 @@ Data visualization using Tableau
 
 ##### Ironman winners viz
 https://fsartoris.github.io/infovis/w42.html 
-Source: https://data.world/makeovermonday/2019w42
+<br>Source: https://data.world/makeovermonday/2019w42
 
 ##### Middle age suicides
 https://fsartoris.github.io/infovis/w43.html 
